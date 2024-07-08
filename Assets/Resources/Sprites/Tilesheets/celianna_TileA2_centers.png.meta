@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 26232cfb226704c43817344630fdc53e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: celianna_TileA2 1_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787d4fc7138d55409a466303fa42239
+      internalID: 1180149447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feacf315bc6442e499bfe14338c5ba0b
+      internalID: 1460619422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c081db00238c034caf523862ce1774f
+      internalID: -1594062475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c6586cf6a74c8438ee699767ae5a91
+      internalID: -1976304504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af217ed2eec23843af6676ae442ab5d
+      internalID: -605163951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b892e8ab0e62c3a4db7a41fc9adb8346
+      internalID: 408754095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0775ade722dcf46bed6845c91776dd
+      internalID: -260094194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff82e00377a8f4fa476d2ebc807e40
+      internalID: 1631874172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22b95056408f34daf5d7f501bebe21
+      internalID: 810988627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74f872fa2903d4c9a70e766db257f9
+      internalID: -2022201384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6559e6a753a31741bce3060c307a23d
+      internalID: 805182135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_66
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c598d3fa011d48b42876b9af63672ee4
+      internalID: -1149451904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65ac1fc7ff7604bad39dab578ad361
+      internalID: 1157298075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba434eeb7eeeba4ea4596f4f2abe359
+      internalID: 452592719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_73
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90a0b2172bc7cc43a6b0b993e51b20a
+      internalID: -1883444552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648ace803a8649349a798f1999e79d36
+      internalID: 2145483897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139dc11381d2b0c4795afb82b7b0c8ca
+      internalID: -1508191163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bbd1ce720c28b43bd703832932fbf6
+      internalID: 72086680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e4fba39caffe34cb5958c8aaee09d5
+      internalID: -1296957978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_112
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a7bc8ccfc6004daa0e303f4804728
+      internalID: 1997518388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e52b619c1d3384b8b2d80340030848
+      internalID: -415649170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_117
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 112
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5324ad1fcb65c143a1e4b619d0a46d4
+      internalID: -1028538784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_130
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228b654fee7ea104da73de6faf3fee5b
+      internalID: 951911599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_132
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 80
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c9678998a64f408704108d4c94458
+      internalID: 359111804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_148
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325f649208501704495268c28fd36eff
+      internalID: -656221253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_150
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d46c9985ffb6242ad829cd5d2bcc78
+      internalID: -2106113939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_152
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65b3816d2cba0c4196e10659a438a5d
+      internalID: 58796095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_154
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab4bb079fd9ed841a63a501bfb63b84
+      internalID: 293753504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_156
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285aaafcb19049b4ca57f000b60e7a99
+      internalID: 84888518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_158
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ec8e4fc9d0c2e419753dc38cdc34ad
+      internalID: -2101094748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c79093a54bb47841837643817889faa
+      internalID: -676619250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: celianna_TileA2 1_162
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e438d72f3b1f4de4ba6950b41be276c1
+      internalID: 1708530707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      celianna_TileA2 1_0: -266589454
+      celianna_TileA2 1_1: 283018507
+      celianna_TileA2 1_10: -1660725585
+      celianna_TileA2 1_100: 1690935671
+      celianna_TileA2 1_101: -1301114668
+      celianna_TileA2 1_102: 1827180343
+      celianna_TileA2 1_103: 2014270862
+      celianna_TileA2 1_104: -1981083022
+      celianna_TileA2 1_105: 1027595728
+      celianna_TileA2 1_106: -1508191163
+      celianna_TileA2 1_107: -1665082637
+      celianna_TileA2 1_108: 72086680
+      celianna_TileA2 1_109: -730412555
+      celianna_TileA2 1_11: -1155194148
+      celianna_TileA2 1_110: -1296957978
+      celianna_TileA2 1_111: 1991470274
+      celianna_TileA2 1_112: 1997518388
+      celianna_TileA2 1_113: 2144763883
+      celianna_TileA2 1_114: 1779369557
+      celianna_TileA2 1_115: -415649170
+      celianna_TileA2 1_116: 1505369193
+      celianna_TileA2 1_117: -1028538784
+      celianna_TileA2 1_118: 982066098
+      celianna_TileA2 1_119: 1613556695
+      celianna_TileA2 1_12: -242973385
+      celianna_TileA2 1_120: -1976793930
+      celianna_TileA2 1_121: 633646972
+      celianna_TileA2 1_122: 301663758
+      celianna_TileA2 1_123: -636612740
+      celianna_TileA2 1_124: -7694045
+      celianna_TileA2 1_125: -1826767118
+      celianna_TileA2 1_126: 83369314
+      celianna_TileA2 1_127: -387659772
+      celianna_TileA2 1_128: -699124648
+      celianna_TileA2 1_129: 1676485528
+      celianna_TileA2 1_13: -187947790
+      celianna_TileA2 1_130: 951911599
+      celianna_TileA2 1_131: -1519487682
+      celianna_TileA2 1_132: 359111804
+      celianna_TileA2 1_133: -1251957524
+      celianna_TileA2 1_134: -1602994476
+      celianna_TileA2 1_135: 1122764561
+      celianna_TileA2 1_136: -1696192243
+      celianna_TileA2 1_137: -1317083263
+      celianna_TileA2 1_138: -376718098
+      celianna_TileA2 1_139: 1999824335
+      celianna_TileA2 1_14: 840380928
+      celianna_TileA2 1_140: -1716612326
+      celianna_TileA2 1_141: -1300970777
+      celianna_TileA2 1_142: 1735488264
+      celianna_TileA2 1_143: 250489751
+      celianna_TileA2 1_144: 1350105765
+      celianna_TileA2 1_145: 677448098
+      celianna_TileA2 1_146: 1908864208
+      celianna_TileA2 1_147: -2023752379
+      celianna_TileA2 1_148: -656221253
+      celianna_TileA2 1_149: -466667796
+      celianna_TileA2 1_15: 1180149447
+      celianna_TileA2 1_150: -2106113939
+      celianna_TileA2 1_151: -1831892030
+      celianna_TileA2 1_152: 58796095
+      celianna_TileA2 1_153: -310876931
+      celianna_TileA2 1_154: 293753504
+      celianna_TileA2 1_155: -219543485
+      celianna_TileA2 1_156: 84888518
+      celianna_TileA2 1_157: 1118205977
+      celianna_TileA2 1_158: -2101094748
+      celianna_TileA2 1_159: -1443824011
+      celianna_TileA2 1_16: -1742578929
+      celianna_TileA2 1_160: -676619250
+      celianna_TileA2 1_161: -1817530957
+      celianna_TileA2 1_162: 1708530707
+      celianna_TileA2 1_17: 1460619422
+      celianna_TileA2 1_18: -118449595
+      celianna_TileA2 1_19: -1594062475
+      celianna_TileA2 1_2: -645939866
+      celianna_TileA2 1_20: 908303500
+      celianna_TileA2 1_21: -1976304504
+      celianna_TileA2 1_22: -1364101409
+      celianna_TileA2 1_23: -605163951
+      celianna_TileA2 1_24: -1016123070
+      celianna_TileA2 1_25: 408754095
+      celianna_TileA2 1_26: 862531222
+      celianna_TileA2 1_27: -260094194
+      celianna_TileA2 1_28: -135371033
+      celianna_TileA2 1_29: 1631874172
+      celianna_TileA2 1_3: 1907983801
+      celianna_TileA2 1_30: -1920699444
+      celianna_TileA2 1_31: 237223557
+      celianna_TileA2 1_32: -385868445
+      celianna_TileA2 1_33: -1425098174
+      celianna_TileA2 1_34: 381564618
+      celianna_TileA2 1_35: 2011536707
+      celianna_TileA2 1_36: 1641912601
+      celianna_TileA2 1_37: -2091469343
+      celianna_TileA2 1_38: -1468905303
+      celianna_TileA2 1_39: 902498969
+      celianna_TileA2 1_4: 678916491
+      celianna_TileA2 1_40: -454233048
+      celianna_TileA2 1_41: -1188928607
+      celianna_TileA2 1_42: 1929550181
+      celianna_TileA2 1_43: 474244725
+      celianna_TileA2 1_44: -220465933
+      celianna_TileA2 1_45: 811256105
+      celianna_TileA2 1_46: -651644418
+      celianna_TileA2 1_47: 1906369807
+      celianna_TileA2 1_48: 966908294
+      celianna_TileA2 1_49: -1798000515
+      celianna_TileA2 1_5: -229059530
+      celianna_TileA2 1_50: 1400492052
+      celianna_TileA2 1_51: 1702098586
+      celianna_TileA2 1_52: -659429558
+      celianna_TileA2 1_53: 923495060
+      celianna_TileA2 1_54: -1649067022
+      celianna_TileA2 1_55: 1977150861
+      celianna_TileA2 1_56: 1570384966
+      celianna_TileA2 1_57: 465441341
+      celianna_TileA2 1_58: 1827901997
+      celianna_TileA2 1_59: -2021553941
+      celianna_TileA2 1_6: 233695336
+      celianna_TileA2 1_60: 810988627
+      celianna_TileA2 1_61: 1680012265
+      celianna_TileA2 1_62: -2022201384
+      celianna_TileA2 1_63: 1192811074
+      celianna_TileA2 1_64: 805182135
+      celianna_TileA2 1_65: -201585005
+      celianna_TileA2 1_66: -1149451904
+      celianna_TileA2 1_67: 1517261722
+      celianna_TileA2 1_68: 1157298075
+      celianna_TileA2 1_69: 853076234
+      celianna_TileA2 1_7: 145309910
+      celianna_TileA2 1_70: 1923069032
+      celianna_TileA2 1_71: 452592719
+      celianna_TileA2 1_72: 1213789764
+      celianna_TileA2 1_73: -1883444552
+      celianna_TileA2 1_74: -1139524897
+      celianna_TileA2 1_75: -450051929
+      celianna_TileA2 1_76: -1675039759
+      celianna_TileA2 1_77: -2066821215
+      celianna_TileA2 1_78: -677421393
+      celianna_TileA2 1_79: -751956157
+      celianna_TileA2 1_8: 1465586358
+      celianna_TileA2 1_80: 1503351805
+      celianna_TileA2 1_81: 1715172568
+      celianna_TileA2 1_82: -1820227612
+      celianna_TileA2 1_83: -1015990525
+      celianna_TileA2 1_84: 1451378816
+      celianna_TileA2 1_85: -335224352
+      celianna_TileA2 1_86: 368090026
+      celianna_TileA2 1_87: -1908592083
+      celianna_TileA2 1_88: -2038109822
+      celianna_TileA2 1_89: 2145483897
+      celianna_TileA2 1_9: -1233105812
+      celianna_TileA2 1_90: -1126843043
+      celianna_TileA2 1_91: 853591508
+      celianna_TileA2 1_92: -592151702
+      celianna_TileA2 1_93: -1683293613
+      celianna_TileA2 1_94: -1708066269
+      celianna_TileA2 1_95: -1611720382
+      celianna_TileA2 1_96: -1044183612
+      celianna_TileA2 1_97: -1613902835
+      celianna_TileA2 1_98: -1695067356
+      celianna_TileA2 1_99: -1733962526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
